@@ -4,9 +4,6 @@ different products through threading and detect updates by refreshing each tab u
 
 Dependencies: Selenium / Chromedriver
 
-```
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oyppdr1EoLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-```
+
+[![demo_thubnail](https://img.youtube.com/vi/oyppdr1EoLo/0.jpg)](https://www.youtube.com/watch?v=oyppdr1EoLo)
 
