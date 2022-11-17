@@ -9,4 +9,4 @@ Update (03/23): retrieved information after release date on page layout(x-paths)
 Dependencies: Selenium / Chromedriver
 
 
-[![demo_thubnail](https://img.youtube.com/vi/pqLKTF0nhD8/0.jpg)](https://www.youtube.com/watch?v=pqLKTF0nhD8)
+[![demo_thubnail](https://img.youtube.com/vi/oyppdr1EoLo/0.jpg)](https://www.youtube.com/watch?v=oyppdr1EoLo)
